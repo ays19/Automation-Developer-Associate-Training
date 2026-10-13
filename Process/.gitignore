@@ -1,0 +1,24 @@
+# UiPath local/cache files
+.local/
+.tmh/
+.screenshots/
+.storage/
+
+# Build/compiled files
+*.dll
+*.exe
+*.nupkg
+
+# IDE/temp files
+*.suo
+*.user
+*.vs
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Zip archives
+*.zip
