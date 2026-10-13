@@ -1,6 +1,5 @@
 {
   "name": "Managing Difficult Situations",
-  "projectId": "9ba9099a-caac-4c50-9abe-01b51f58ed13",
   "description": "SelectorsDifficultSituations",
   "main": "Main.xaml",
   "dependencies": {
@@ -34,13 +33,14 @@
     "projectProfile": "Developement",
     "outputType": "Process",
     "libraryOptions": {
+      "includeOriginalXaml": false,
       "privateWorkflows": []
     },
     "processOptions": {
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "saveToCloud": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

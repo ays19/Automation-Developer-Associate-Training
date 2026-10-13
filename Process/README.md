@@ -56,6 +56,7 @@ Process/
     ├── extract email address with RegEx/       # Pattern parsing from unformatted text
     ├── ForEachUIElements/                      # Modern dynamic UI collections iteration
     ├── Managing Difficult Situations_Project/  # Exception strategies & UI fault recovery
+    ├── Phase one_Supplier Claims Processing/   # Enterprise supplier claims & testing flow
     ├── PickAndPickBranch/                      # Non-deterministic event-driven monitoring
     ├── Regex Addresses Demo/                   # Multi-line street & address extraction
     ├── String Bookstore Demo/                  # String methods (Split, Substring, Replace)
@@ -98,7 +99,9 @@ Process/
 | **Modern Selectors & UI Iteration** | `Automation Developer Associate Training/Types of Selector` <br> `Automation Developer Associate Training/ForEachUIElements` <br> `Automation Developer Associate Training/Check Application State` | Unified Targeting (Fuzzy, Strict, Image, Computer Vision), looping across dynamic UI grids with `For Each UI Element`. |
 | **Verification & Assertions** | `Automation Developer Associate Training/Verify execution feature` | Modern verification checks, confirming field changes and UI transitions prior to advancing workflows. |
 | **Event-Driven & Concurrency** | `Automation Developer Associate Training/PickAndPickBranch` <br> `Automation Developer Associate Training/UsingParralalActivity` | Asynchronous branches with `Pick` and `PickBranch` for non-deterministic dialogs; parallel concurrent executions. |
-| **Fault Handling & Capstone** | `Automation Developer Associate Training/Managing Difficult Situations_Project` <br> `Automation Developer Associate Training/Task2` | Graceful UI recovery, unexpected pop-up handling, multi-step capstone automation with input validation and audit outputs. |
+| **Fault Handling & Recovery** | `Automation Developer Associate Training/Managing Difficult Situations_Project` | Graceful UI recovery, Find Children, Visual Tree navigation, unexpected pop-up handling. |
+| **Enterprise Use Case & Testing** | `Automation Developer Associate Training/Phase one_Supplier Claims Processing` | Standard supplier claims processing use case, Mail activities, Excel integration, Testing framework. |
+| **Capstone Automation** | `Automation Developer Associate Training/Task2` | Multi-screen end-to-end automation with input validation, transaction processing, and audit outputs. |
 
 ---
 
@@ -111,6 +114,8 @@ Process/
   - `UiPath.System.Activities` (v26.2+)
   - `UiPath.UIAutomation.Activities` (v26.10+)
   - `UiPath.Excel.Activities`
+  - `UiPath.Mail.Activities`
+  - `UiPath.Testing.Activities`
 - **Architecture Guidelines Applied:**
   - **Naming Conventions:** Descriptive activity labels; PascalCase variables; direction-prefixed arguments (`in_ConfigFile`, `out_TransactionID`).
   - **Modern UI Design:** Universal targeting enabled with automatic selector fallbacks.

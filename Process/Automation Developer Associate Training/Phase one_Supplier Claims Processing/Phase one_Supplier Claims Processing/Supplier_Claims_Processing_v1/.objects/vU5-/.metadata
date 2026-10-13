@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Contoso Manufacturing — Claims Dashboard",
+  "Type": "App",
+  "Id": "vU5-us84J0-2Qx0OA0IiRQ",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/vU5-us84J0-2Qx0OA0IiRQ",
+  "Created": "2026-05-08T12:22:51.3276619Z",
+  "Updated": "2026-05-08T12:22:51.3276619Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

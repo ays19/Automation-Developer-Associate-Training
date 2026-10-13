@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Claim Category ",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "sMRQiVapmEWq9hwNNqxBjw",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/sMRQiVapmEWq9hwNNqxBjw",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/_HrE2AqGxEu9dqkBoSjrcg",
+  "Created": "2026-05-12T07:33:33.1346163Z",
+  "Updated": "2026-05-12T07:33:33.1346163Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
