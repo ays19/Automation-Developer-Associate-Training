@@ -1,0 +1,26 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "029bc6d2-0494-436f-91e4-0e1194468775",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_outputFolderPath": {
+            "type": "string",
+            "x-default-expression": "\"D:\\Automation Developer Associate Training\\Process\\Automation Developer Associate Training\\StringActivities\\output\"",
+            "default": "D:\\Automation Developer Associate Training\\Process\\Automation Developer Associate Training\\StringActivities\\output"
+          },
+          "in_inputFolderPath": {
+            "type": "string",
+            "x-default-expression": "\"D:\\Automation Developer Associate Training\\Process\\Automation Developer Associate Training\\StringActivities\\input\"",
+            "default": "D:\\Automation Developer Associate Training\\Process\\Automation Developer Associate Training\\StringActivities\\input"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}
