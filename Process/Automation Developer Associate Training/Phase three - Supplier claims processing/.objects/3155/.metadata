@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome PackCo Vendor Portal — Supplier Claims",
+  "Type": "App",
+  "Id": "3155VMqWIkqzLb9UD5mOQQ",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/3155VMqWIkqzLb9UD5mOQQ",
+  "Created": "2026-05-08T12:59:07.2021775Z",
+  "Updated": "2026-05-08T12:59:07.2021775Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

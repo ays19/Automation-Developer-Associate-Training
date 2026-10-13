@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dG4mJDc8VE6WvpQTivEksA" Reference="kMHxHFkRdUG5hxoDvy1PoQ/aHdCcHgg1EqlbHYI5FRvLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/portal-v1" DesignTimeRectangle="530, 418, 423, 41" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='claimReference' tag='INPUT' type='text' class='form-control mono' placeholder='CLM-2026-0042' aaname='Claim Reference *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="fcab2989-b90d-4467-aa92-d13ed3a0c1f9" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Vendor Portal — Supplier Claims' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="530, 394, 423, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Claim Reference ' parentid='claimForm' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Claim Reference *' /&gt;" Guid="4aec31b8-dde4-467d-ad98-ee58a0c11542" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="38bbf1b74cf3a854a27766da483cd7fd.jpg" xmlns="">0WZwcAktt_kOeZaXuDia1iQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

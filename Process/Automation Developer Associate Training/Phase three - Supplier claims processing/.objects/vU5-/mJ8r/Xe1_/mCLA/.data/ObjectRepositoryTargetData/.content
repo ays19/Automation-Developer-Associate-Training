@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PxcZIP7m40OccVn5lxF_dQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard/claim/CLM-2024-00847" DesignTimeRectangle="1544, 448, 23, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='detail-quantity' tag='SPAN' /&gt;" Guid="c819bb55-95e2-4ebf-89e3-5ce126b31166" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contoso Manufacturing — Claims Dashboard' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c3d43326cd42d2d896b2e9d4c324a852.jpg" xmlns="">0gv_9ETZHikmH5ZixJ8xpow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

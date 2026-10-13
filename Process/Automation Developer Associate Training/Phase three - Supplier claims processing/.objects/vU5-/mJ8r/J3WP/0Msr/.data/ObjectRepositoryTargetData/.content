@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z2UecgyV50iXu0-kGNJDiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard/claim/CLM-2024-00847" DesignTimeRectangle="361, 732, 1206, 37" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='supplierReference' tag='INPUT' type='text' class='' placeholder='e.g. PCK-REF-2024-11847' aaname='Supplier Reference' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="21a7b660-3ff7-47b9-a63b-dd50806c78d4" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contoso Manufacturing — Claims Dashboard' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="361, 711, 1206, 15" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Supplier Reference' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='SUPPLIER REFERENCE' /&gt;" Guid="8d0ddbab-ee3e-4e35-a005-329d1285619f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="012c5eba5a2aced87bba288f7a409b4c.jpg" xmlns="">09ICUlNy8lE6GKN5Ih8FCwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

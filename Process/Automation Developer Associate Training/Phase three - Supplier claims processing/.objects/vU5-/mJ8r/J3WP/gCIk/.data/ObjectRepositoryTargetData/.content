@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nQNvGP5k_U2yqJ_tQ_o_UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard/claim/CLM-2024-00847" DesignTimeRectangle="361, 908, 125, 37" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='btnSave' tag='BUTTON' /&gt;" Guid="b43a69e4-83b8-4f15-a2eb-f9fbecb2b5cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contoso Manufacturing — Claims Dashboard' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c2a94200f331651a0be0d81ae7d25622.jpg" xmlns="">0hJkWht0LnEeu3Ykh5GIl2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Contoso Manufacturing — Claims Dashboa(1)",
+  "Type": "Screen",
+  "Id": "J3WPs72HKEutdqMmrPSc5A",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/J3WPs72HKEutdqMmrPSc5A",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/mJ8rj3KLBkuVUM7Ux0_xKA",
+  "Created": "2026-05-12T08:07:51.0578916Z",
+  "Updated": "2026-05-12T08:07:51.0578916Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

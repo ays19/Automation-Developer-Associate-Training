@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3sHabbhklUOCrk7AdbsF2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/portal-v1" DesignTimeRectangle="735, 358, 466, 392" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='confirmation-wrapper' parentid='pageConfirmation' tag='DIV' /&gt;" Guid="8ef197be-984d-43c5-abf3-ba7446fb55af" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Vendor Portal — Supplier Claims' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d0da9828b416790a2d1d87331c52f65f.jpg" xmlns="">0rHwZYAPbW0aU_23SUc2AtQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text Contact phone",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "G5Az6031dkWHYFFeBsX2wQ",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/G5Az6031dkWHYFFeBsX2wQ",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:44:53.4526765Z",
+  "Updated": "2026-05-08T12:44:53.4526765Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

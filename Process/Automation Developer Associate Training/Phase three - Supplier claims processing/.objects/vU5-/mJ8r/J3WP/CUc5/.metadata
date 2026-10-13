@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Notes",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "CUc5Yp-E7Eqbm5Pf7DHp7Q",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/CUc5Yp-E7Eqbm5Pf7DHp7Q",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/J3WPs72HKEutdqMmrPSc5A",
+  "Created": "2026-05-12T08:12:26.53254Z",
+  "Updated": "2026-05-12T08:12:26.53254Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

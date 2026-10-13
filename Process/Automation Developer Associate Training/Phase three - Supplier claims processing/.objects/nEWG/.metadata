@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Contoso Manufacturing — Claims Dashboa",
+  "Type": "App",
+  "Id": "nEWGAqxrBUSnCaTIG5BA-w",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/nEWGAqxrBUSnCaTIG5BA-w",
+  "Created": "2026-05-26T06:32:22.6043065Z",
+  "Updated": "2026-05-26T06:32:22.6043065Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

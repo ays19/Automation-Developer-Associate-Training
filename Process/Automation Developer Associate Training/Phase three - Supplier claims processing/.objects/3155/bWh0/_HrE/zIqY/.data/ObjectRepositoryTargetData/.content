@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pqYPTVlDMEWyA9TsAAZKPQ" Reference="kMHxHFkRdUG5hxoDvy1PoQ/zIqY2ymJ90KBRQPR_f570g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/portal-v1" DesignTimeRectangle="530, 681, 423, 43" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='incidentDate' tag='INPUT' type='date' class='form-control' aaname='Incident Date *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="a6c887e9-b730-4dbe-8744-b4031c5fea1f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Vendor Portal — Supplier Claims' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="530, 657, 423, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Incident Date ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' parentid='claimForm' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='LABEL' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' innertext='Incident Date *' matching:innertext='fuzzy' fuzzylevel:innertext='0.0' check:innerText='Incident Date *' /&gt;" Guid="f2628beb-d14c-4a5f-8363-f80b3912a1b7" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="af229bfd041f3eb5c21909e332b4a74b.jpg" xmlns="">09n51EUQfKUOH1ngQKhYF3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

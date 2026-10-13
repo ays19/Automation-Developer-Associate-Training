@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text Contact Email",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XLsbBVGpRUuUEFd4RUf1xA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/XLsbBVGpRUuUEFd4RUf1xA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:44:26.7076041Z",
+  "Updated": "2026-05-08T12:44:26.7076041Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

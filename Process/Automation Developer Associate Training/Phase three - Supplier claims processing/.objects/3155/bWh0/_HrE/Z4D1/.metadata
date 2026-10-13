@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into packcoUsername",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Z4D18y41K0yGmk7DzTlvwA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/Z4D18y41K0yGmk7DzTlvwA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/_HrE2AqGxEu9dqkBoSjrcg",
+  "Created": "2026-05-08T13:04:19.3234167Z",
+  "Updated": "2026-05-08T13:04:19.3234167Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

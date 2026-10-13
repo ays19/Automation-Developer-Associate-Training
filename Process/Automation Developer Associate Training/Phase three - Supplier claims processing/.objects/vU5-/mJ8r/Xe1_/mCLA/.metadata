@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text quantity",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mCLAc_SDAU2Uf_uGzh56ng",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/mCLAc_SDAU2Uf_uGzh56ng",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:46:19.2126618Z",
+  "Updated": "2026-05-08T12:46:19.2126618Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
