@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WKOl4F8jK0KFW4VwQHEI0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practice-automation.com/calendars" DesignTimeRectangle="34, 557, 510, 500" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='dp' parentid='body' tag='DIV' /&gt;" Guid="edf0f12f-5189-48c9-abff-0ed62d6f6cda" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c64dba5a823efa92338da8344a689023.jpg" xmlns="">0yhwmZLuaRUGfhtNFCWG1GA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

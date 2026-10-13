@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HHKOxJcrlEeQ4o4T8EABow" Reference="j4AprzoVuEy_P7eKMum3rQ/nuiw1ptd2E2BbyIOWD_nZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practice-automation.com/calendars" DesignTimeRectangle="34, 702, 1852, 74" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' innertext='{0}' /&gt;&quot;, strMonth)]" Guid="2dbb8da1-b448-40ca-974c-6f1d991db2c4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="497de94363f6cc5a0af99b2f1a66f465.jpg" xmlns="">0sP3Ij9HID0G2REG4fOj2Zw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="" Name="strMonth" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

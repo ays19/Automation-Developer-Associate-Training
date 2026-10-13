@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d7tP5b4tBE6xElqwiAp5YQ" Reference="j4AprzoVuEy_P7eKMum3rQ/QaQ6KlaJRkyDIA06plPcuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practice-automation.com/calendars" DesignTimeRectangle="221, 669, 130, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' innertext='20??' /&gt;" Guid="609b8977-7acf-413f-b8b9-b189e640ab5e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a1382f76d6645c733a4e373edb7a479b.jpg" xmlns="">0Xcm0SDWSiEG4krBorSbauQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

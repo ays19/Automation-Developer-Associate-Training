@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select or enter a date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "m31oSKxRD0mcnuSxu7rHdA",
+  "Reference": "j4AprzoVuEy_P7eKMum3rQ/m31oSKxRD0mcnuSxu7rHdA",
+  "ParentRef": "j4AprzoVuEy_P7eKMum3rQ/HtqNC726z0ORP0QyTnKMdg",
+  "Created": "2026-10-11T03:49:09.3828418Z",
+  "Updated": "2026-10-11T03:49:09.3828418Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

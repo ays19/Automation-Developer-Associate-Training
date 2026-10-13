@@ -1,0 +1,238 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:System;assembly=System.Private.CoreLib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="in_DateText" Type="InArgument(x:String)" />
+  </x:Members>
+  <VisualBasic.Settings>
+    <x:Null />
+  </VisualBasic.Settings>
+  <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>System.Globalization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Numerics</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.API.Contracts</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.API</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="640.6666666666666,2920" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="strDay" />
+      <Variable x:TypeArguments="x:String" Name="strYear" />
+      <Variable x:TypeArguments="x:String" Name="strMonth" />
+      <Variable x:TypeArguments="s:DateTime" Name="dtDate" />
+      <Variable x:TypeArguments="x:String" Name="strDayLabel" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="452,278" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Enter Date" Title="Enter Date" TopMost="False">
+      <ui:InputDialog.Result>
+        <OutArgument x:TypeArguments="x:String">[in_DateText]</OutArgument>
+      </ui:InputDialog.Result>
+    </ui:InputDialog>
+    <Assign sap:VirtualizedContainerService.HintSize="452,176.66666666666666" sap2010:WorkflowViewState.IdRef="Assign_6">
+      <Assign.To>
+        <OutArgument x:TypeArguments="s:DateTime">[dtDate]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="s:DateTime">[DateTime.ParseExact(in_DateText.Trim().Replace("/", "-"), {"d-M-yyyy", "d-MMM-yyyy", "d-MMMM-yyyy", "d-M-yy", "d-MMM-yy", "d-MMMM-yy"}, System.Globalization.CultureInfo.InvariantCulture, System.Globalization.DateTimeStyles.None)]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="452,176.66666666666666" sap2010:WorkflowViewState.IdRef="Assign_7">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[strMonth]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[dtDate.ToString("MMMM", System.Globalization.CultureInfo.InvariantCulture)]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="452,176.66666666666666" sap2010:WorkflowViewState.IdRef="Assign_8">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[strYear]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[dtDate.Year.ToString]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="452,176.66666666666666" sap2010:WorkflowViewState.IdRef="Assign_9">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[strDay]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[dtDate.Day.ToString]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="452,176.66666666666666" sap2010:WorkflowViewState.IdRef="Assign_11">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[strDayLabel]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[dtDate.ToString("ddd MMM dd yyyy", System.Globalization.CultureInfo.InvariantCulture)]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Calendars  Practice Automation(1)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="452,1736" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,1541.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_5">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NNavigateBrowser Action="Refresh" DelayAfter="1" DisplayName="Navigate Browser - Refresh" sap:VirtualizedContainerService.HintSize="416,123.33333333333333" sap2010:WorkflowViewState.IdRef="NNavigateBrowser_1" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5" />
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Select or enter a date'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="2CILktrNRk2FLXSnsyKkZw" DesignTimeRectangle="34, 485, 1852, 60" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='date jp-contact-form-date grunion-field' aaname='Select or enter a date' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5e7d100e-a277-452d-8da7-a03f9c85d3da" InformativeScreenshot="6cb72e629a2d60e636448acac2596327.jpg" IsResponsive="True" Reference="j4AprzoVuEy_P7eKMum3rQ/6QgNe0LdyUyhlUx4R6-bCw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="34, 425, 1852, 54" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='grunion-field-label date' aaname='Select or enter a date' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Select or enter a date' /&gt;" Guid="217775e3-92ec-45f2-98d5-8b01735277c0" SearchSteps="FuzzySelector" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click Month dropdown" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_5" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="0bKtHeTkcECFgh9o5ldodw" DesignTimeRectangle="59, 666, 164, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='*Month picker*' tag='BUTTON' type='button' /&gt;" Guid="a064999d-5be4-4510-a743-02ec903f249d" InformativeScreenshot="cb6d569007dd0e424cfe8de2e6067ed0.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/tEWS_nv2_kyjic1x5BJ4iw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click Month" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_6" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="HHKOxJcrlEeQ4o4T8EABow" DesignTimeRectangle="34, 702, 1852, 74" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' innertext='{0}' /&gt;&quot;, strMonth)]" Guid="2dbb8da1-b448-40ca-974c-6f1d991db2c4" InformativeScreenshot="497de94363f6cc5a0af99b2f1a66f465.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/nuiw1ptd2E2BbyIOWD_nZg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click year dropdown" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_7" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="d7tP5b4tBE6xElqwiAp5YQ" DesignTimeRectangle="221, 669, 130, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' innertext='20??' /&gt;" Guid="609b8977-7acf-413f-b8b9-b189e640ab5e" InformativeScreenshot="a1382f76d6645c733a4e373edb7a479b.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/QaQ6KlaJRkyDIA06plPcuQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click Year" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_8" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="m567sX-HVkeda_I9AuCw2g" DesignTimeRectangle="59, 930, 437, 48" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' innertext='{0}' /&gt;&quot;, strYear)]" Guid="d6a5985c-b51c-4032-b419-0b25af7626a9" InformativeScreenshot="f164dd4331e087d7ec741521af058ce1.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/bz-AuO3kqkKCy4vjgdpRQA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DelayBefore="1" DisplayName="Click Day" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_11" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="SFNj5E4E9USHF_fxLwsp3g" DesignTimeRectangle="11, 225, 0, 0" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-label='{0}*' tag='BUTTON' type='button' /&gt;&quot;, strDayLabel)]" Guid="988238b6-ea10-4699-86ae-ae2a3a5c17f2" InformativeScreenshot="f5bed16210bfe448ce415262b45a06ab.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/B-t6ajxhcE-L1LFQkOVsMg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Submit'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,186" sap2010:WorkflowViewState.IdRef="NClick_12" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0ebc5e1d-7230-49e0-aba2-d95aa41f510c" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="practice-automation.com/calendars" ContentHash="xrQNPEHw3Ee35XHwkVvnzA" DesignTimeRectangle="34, 543, 1852, 74" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="e46897d8-10d9-42d5-8d52-18bd5f63451a" InformativeScreenshot="99c449e4e5745119fef9af09641fdcf3.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/Y5lVzMujtUGB0XoqtiLvmQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.OCREngine>
+        <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+          <ActivityFunc.Argument>
+            <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+          </ActivityFunc.Argument>
+        </ActivityFunc>
+      </uix:NApplicationCard.OCREngine>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="-11, -11, 1942, 1150" BrowserType="Chrome" ContentHash="VRVDdz-XR0qgbYXlPgR5TQ" IconBase64="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" InformativeScreenshot="6e68f8c38e793fa5bbfc54bc6353d605.jpg" Reference="j4AprzoVuEy_P7eKMum3rQ/LcHypey89ky2y_zFBNTZ0g" Selector="&lt;html app='chrome.exe' title='Calendars | Practice Automation' /&gt;" Url="https://practice-automation.com/calendars/" Version="V3" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>
