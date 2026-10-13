@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Data Consolidation 2",
+  "ProjectType": "Process",
+  "Description": "Consolidates Acquisitions and Sales data into a master Month Report",
+  "MainFile": "Main.xaml"
+}
