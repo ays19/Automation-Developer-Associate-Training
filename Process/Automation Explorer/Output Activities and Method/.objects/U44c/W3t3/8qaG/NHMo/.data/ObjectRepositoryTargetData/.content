@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q2xjDDsCgUCVgg4qbavOzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="781, 188, 70, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='transnrlabel' /&gt;" Guid="9d826079-5208-48c9-9af2-d95a9674fd2e" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="aa441fbe408d6143d497a7bf957be0d7.jpg" xmlns="">0otQcMKgalU-uF_h1TfvyEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

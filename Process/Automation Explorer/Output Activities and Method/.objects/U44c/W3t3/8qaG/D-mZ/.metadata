@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Accept",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "D-mZhZRB-k6MueKmyzi0jQ",
+  "Reference": "Soo0jO6esUS5KGooTNuVhw/D-mZhZRB-k6MueKmyzi0jQ",
+  "ParentRef": "Soo0jO6esUS5KGooTNuVhw/8qaGVS0ilUOuwapLpvY-nA",
+  "Created": "2026-10-08T06:00:01.286761Z",
+  "Updated": "2026-10-08T06:00:01.286761Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

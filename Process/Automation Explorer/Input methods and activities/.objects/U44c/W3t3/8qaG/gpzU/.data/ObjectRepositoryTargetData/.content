@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kFWY3UbYB06E2YoOuZI_jQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="499, 252, 180, 35" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl automationid='cashintb' role='editable text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="316b1a52-c17f-4fa9-b5b0-8f7fe4aa3a40" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="388, 248, 87, 39" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Cash In' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Cash In' /&gt;" Guid="ede372e6-3d1d-492a-9c04-f19e30309e54" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d28ea6ccb2a2c1d10d7bc13dcf4ada9.jpg" xmlns="">0gqjBlUhyUkaKT_3gUQamAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PAiZQzwsAEOMnSc-e0vkhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="372, 637, 114, 76" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='plusButton' cls='Button' name='Plus' /&gt;" Guid="681f321b-99a2-4b69-ae2e-0dfa99365f5e" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f3e702e7ce4af77b310f6faffb81c1d5.jpg" xmlns="">0aR0QLM38OU6vTo77itBW5g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

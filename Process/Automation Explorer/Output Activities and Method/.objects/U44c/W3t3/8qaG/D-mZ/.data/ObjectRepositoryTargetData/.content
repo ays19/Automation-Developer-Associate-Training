@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nk3v9QeoZkC8Cupeqz17yQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="661, 818, 120, 46" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='Accept' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Accept' /&gt;" Guid="bf751729-c20a-47f0-8dcd-5c83f877877e" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="693, 830, 55, 21" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Accept' role='push button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Accept' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Accept' /&gt;" Guid="1dfc2c75-6c68-41fb-bb0b-006e9e2f04e0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7e839f765a06656d8dc5f3446dc6050c.jpg" xmlns="">0FOZGoGJgC0Oo5EqI_0AIfg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

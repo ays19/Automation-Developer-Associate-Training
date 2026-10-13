@@ -1,0 +1,38 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "16577d15-6fa6-4e9e-b1fa-871e55cc1692",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_InvoiceNumber": {
+            "type": "string",
+            "x-default-expression": "\"494559\"",
+            "default": "494559"
+          }
+        },
+        "required": []
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "out_Date": {
+            "type": "string"
+          },
+          "out_Total": {
+            "type": "string"
+          },
+          "out_InvoiceItem": {
+            "type": "string"
+          },
+          "out_VendorTaxID": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  ]
+}

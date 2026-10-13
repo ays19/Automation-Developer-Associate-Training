@@ -1,0 +1,6 @@
+{
+  "Name": "Identify UI element",
+  "ProjectType": "Process",
+  "Description": "Learn target and anchor",
+  "MainFile": "Main.xaml"
+}
