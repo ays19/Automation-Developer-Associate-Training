@@ -1,0 +1,1 @@
+Your flight to Destination is scheduled for Departure and your return flight is scheduled for ReturnDate.
