@@ -1,0 +1,6 @@
+{
+  "Name": "build and run UI automation project practice",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

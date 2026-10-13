@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download Monthly Report",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "f7Sh_l8yO0CuKx4SZVKD-A",
+  "Reference": "JFx3xoBiBkGr12Y8KeZBiQ/f7Sh_l8yO0CuKx4SZVKD-A",
+  "ParentRef": "JFx3xoBiBkGr12Y8KeZBiQ/Z68oJpP05USvZyHOVo7_0Q",
+  "Created": "2026-10-12T05:58:04.2064977Z",
+  "Updated": "2026-10-12T05:58:04.2064977Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W-ZtbF-CyUCpnU4lX8LkzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" DesignTimeRectangle="105, 276, 1710, 74" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" Guid="d1054ca9-b964-4a8c-ab80-a15b83e6b94d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7a3e0dec977c9a41d68c9d843c4bb94a.jpg" xmlns="">07mXZkPDG7UyX6P3xwz3PZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">FindElements</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

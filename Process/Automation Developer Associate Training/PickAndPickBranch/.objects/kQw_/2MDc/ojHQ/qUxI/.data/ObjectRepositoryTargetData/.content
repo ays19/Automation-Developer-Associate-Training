@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rgy4hDSDY06NH3Qv6cdpUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" DesignTimeRectangle="221, 833, 89, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="05610d34-f611-421e-b975-6398e97904f6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0d1051e20fbbd1a08d9843dec056dc47.jpg" xmlns="">00eLEgDKkEUGZigBplpUy0Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">FindElements</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
