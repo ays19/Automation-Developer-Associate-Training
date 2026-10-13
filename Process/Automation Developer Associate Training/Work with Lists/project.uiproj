@@ -1,0 +1,6 @@
+{
+  "Name": "Work with Lists",
+  "ProjectType": "Process",
+  "Description": "Working with lists demo",
+  "MainFile": "Main.xaml"
+}
