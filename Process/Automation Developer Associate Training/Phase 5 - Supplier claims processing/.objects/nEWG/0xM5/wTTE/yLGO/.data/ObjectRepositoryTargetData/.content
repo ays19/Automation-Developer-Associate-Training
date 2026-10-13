@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wm_4Bn5cqkKJ89qfUnIskw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v2" DesignTimeRectangle="843, 323, 470, 457" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='card' tag='DIV' /&gt;" Guid="4f660cd0-aa6b-4a81-9855-00d44867e177" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FreshSource Claims Center' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="The confirmation message container displayed after a claim has been submitted, showing the confirmation number and options to complete the process or submit another claim." Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a965fa63103de0f7f88a9e3ddcbaea84.jpg" xmlns="">0LXdyaWLvWk2vbc6hsC3_ZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JpxWaKHeTE6sP1R2r-kHqg" Reference="kMHxHFkRdUG5hxoDvy1PoQ/rjJL_TTFXk2HPO5WwgmIyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v1-updated" DesignTimeRectangle="248, 245, 1665, 1530" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='page-claims-form' tag='DIV' /&gt;" Guid="ed0f9935-6d8d-4b75-b08b-1990a59d1f8e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Partner Hub' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="1bfbb2e354071077aaa6d50291b05284.jpg" xmlns="">03oHgFMe-eEuvX2ZtgDnffw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

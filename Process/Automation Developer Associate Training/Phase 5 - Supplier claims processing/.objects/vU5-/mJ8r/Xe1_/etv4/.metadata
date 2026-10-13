@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CLM-2024-00847",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "etv4u_M5hEK2rNX9ghNsfw",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/etv4u_M5hEK2rNX9ghNsfw",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:30:57.2905862Z",
+  "Updated": "2026-05-08T12:30:57.2905862Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

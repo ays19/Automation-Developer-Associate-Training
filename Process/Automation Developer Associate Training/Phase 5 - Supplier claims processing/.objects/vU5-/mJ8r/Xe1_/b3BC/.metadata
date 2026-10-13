@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text amountRequested",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "b3BCuCGy40-PvpUa6CiP1Q",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/b3BCuCGy40-PvpUa6CiP1Q",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:48:14.2309215Z",
+  "Updated": "2026-05-08T12:48:14.2309215Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QEw2F0VF7k-7q_w31j90-g" Reference="kMHxHFkRdUG5hxoDvy1PoQ/CmVpm49elkyb1yVhseA3yA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" DesignTimeRectangle="472, 265, 100, 29" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='filterPending' tag='BUTTON' type='' class='filter-tab' aaname='Pending10' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Pending&amp;#xA;10' /&gt;" Guid="1b8c40d1-9fe3-473a-8e55-21b3783a412e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contoso Manufacturing — Claims Dashboard' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="535, 272, 24, 15" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='countPending' tag='SPAN' type='' class='filter-count' aaname='10' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='10' /&gt;" Guid="1056e526-a4ae-4c4c-bdad-96cd24cbb1b9" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c868f40959c9a906c22b99e7b4fc8019.jpg" xmlns="">0nf7ViMD8wEGo6AsZSM5oQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,6 @@
+{
+  "Name": "Supplier_Claims_Processing_Phase 5_ScreenPlay",
+  "ProjectType": "Process",
+  "Description": "This process depicts the standard automation for the supplier claims processing use case post the application of Healing agent",
+  "MainFile": "Main.xaml"
+}

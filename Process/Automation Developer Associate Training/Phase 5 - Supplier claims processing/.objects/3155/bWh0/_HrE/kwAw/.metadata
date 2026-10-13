@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into packcoPassword",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "kwAwtVoSBUaSrti9DeTs8A",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/kwAwtVoSBUaSrti9DeTs8A",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/_HrE2AqGxEu9dqkBoSjrcg",
+  "Created": "2026-05-08T13:05:12.4860263Z",
+  "Updated": "2026-05-08T13:05:12.4860263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

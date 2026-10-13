@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text evidenceReference",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "C9_l8a2sd0aYpffbO0AIfQ",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/C9_l8a2sd0aYpffbO0AIfQ",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:52:16.7191001Z",
+  "Updated": "2026-05-08T12:52:16.7191001Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

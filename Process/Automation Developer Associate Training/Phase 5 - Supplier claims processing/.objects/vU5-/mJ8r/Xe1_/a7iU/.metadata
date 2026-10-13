@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text description",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "a7iUmPqxy0edjMnzjnbPgA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/a7iUmPqxy0edjMnzjnbPgA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:50:55.1485455Z",
+  "Updated": "2026-05-08T12:50:55.1485455Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

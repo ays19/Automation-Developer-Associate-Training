@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yVgdk09dVEmePafNgByR6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v2" DesignTimeRectangle="970, 574, 216, 57" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='confirmationNumber' tag='DIV' /&gt;" Guid="0ef30941-c1d6-4cdb-bf1b-b9b26f85216f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FreshSource Claims Center' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="43b11d4d14fc6644ada1f929b672e2fd.jpg" xmlns="">09pLhVZg7NUKQTvmVGZP20w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

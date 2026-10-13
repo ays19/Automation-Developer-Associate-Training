@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Preparing your ticket f…",
+  "Type": "Element",
+  "Id": "rjJL_TTFXk2HPO5WwgmIyA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/rjJL_TTFXk2HPO5WwgmIyA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/TArdiMHejk2pGWjks9aXWA",
+  "Created": "2026-06-10T13:57:40.813413Z",
+  "Updated": "2026-06-10T13:57:40.813413Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

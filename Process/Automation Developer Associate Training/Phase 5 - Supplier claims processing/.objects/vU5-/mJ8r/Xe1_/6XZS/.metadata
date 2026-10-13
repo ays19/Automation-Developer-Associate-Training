@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text priority(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6XZSGyJdGUS-ztsnPMnOag",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/6XZSGyJdGUS-ztsnPMnOag",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:57:42.0367722Z",
+  "Updated": "2026-05-08T12:57:42.0367722Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

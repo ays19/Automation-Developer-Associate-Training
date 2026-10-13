@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kUwbjOrCTUmr-UWUWUmhmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v3" DesignTimeRectangle="704, 387, 520, 395" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='confirmationOverlay' tag='DIV' /&gt;" Guid="458f2582-0341-4c85-9d97-7a656f1d6ac5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='LogiTrack Returns Portal' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="Confirmation message for a submitted return report, displaying the tracking ID, estimated processing time, and options to submit another report or track the shipment." Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="256eb7141a0a60731761932f6998deec.jpg" xmlns="">0RyjQ2IgHdUOhN8A5NyRmDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "LT-RET-2026-66064",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "C3olTOQMn0Wj5GSOEEcJ9Q",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/C3olTOQMn0Wj5GSOEEcJ9Q",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/h9riI4dnyUmCo1hQ8BRNjQ",
+  "Created": "2026-06-15T13:17:20.8406944Z",
+  "Updated": "2026-06-15T13:17:20.8406944Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

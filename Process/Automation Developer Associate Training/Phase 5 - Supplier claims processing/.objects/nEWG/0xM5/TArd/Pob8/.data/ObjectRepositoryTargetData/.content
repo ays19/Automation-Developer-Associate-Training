@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zgj4Zzshn0qJNHBA1h_3ag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v1-updated" DesignTimeRectangle="641, 257, 640, 655" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='reviewModal' tag='DIV' /&gt;" Guid="e92098d2-a93f-40bd-8d08-4350160a9c20" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Partner Hub' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="The dialog box to review the submitted information, which includes details like organization, contact email, phone, ticket number, claim category, product code, quantity, amount requested, issue details, expedited review status, incident date, evidence reference, and priority, along with buttons to go back to edit or submit the ticket." Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c4509407f4c30a5eea2993e422d2efa3.jpg" xmlns="">0FPWbGOGie0uSV-NA8gRMLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

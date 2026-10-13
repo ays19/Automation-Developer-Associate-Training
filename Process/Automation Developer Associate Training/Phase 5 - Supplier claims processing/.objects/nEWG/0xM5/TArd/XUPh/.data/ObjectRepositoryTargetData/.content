@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YhkvCce1Wk6HqZpr-p6o1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v1-updated" DesignTimeRectangle="686, 897, 387, 40" ElementVisibilityArgument="Interactive" Guid="c84fa67a-a6b3-4285-bfd3-ff053b4f818e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Partner Hub' /&gt;" SearchSteps="Semantic" SemanticElementType="DatePicker" SemanticTextArgument="%[&quot;Incident Date *&quot;]" TargetType="SemanticBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8d36859b0644fdd56030d7da3b83e491.jpg" xmlns="">07SSiqb7tykqm_6fOCo5cTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SetValue</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

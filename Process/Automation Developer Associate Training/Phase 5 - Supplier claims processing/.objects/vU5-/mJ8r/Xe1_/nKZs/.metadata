@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PackCo Industries(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "nKZsDoRRpEyCg9VR8EnL1w",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/nKZsDoRRpEyCg9VR8EnL1w",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:41:24.0910161Z",
+  "Updated": "2026-05-08T12:41:24.0910161Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

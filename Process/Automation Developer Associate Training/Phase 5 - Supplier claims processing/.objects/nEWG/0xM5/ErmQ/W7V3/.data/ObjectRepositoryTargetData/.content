@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QIklyrv0GUm2bvFWIvxxeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/dashboard" DesignTimeRectangle="8, 185, 1920, 810" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='MAIN' /&gt;" Guid="5c6bc017-350e-4920-ad15-92e96c4f79aa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contoso Manufacturing — Claims Dashboard' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9df61a9c99282c4bd40bc8ae4605feb7.jpg" xmlns="">02hRv-TGzrUO1E1Jr0ZoZOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

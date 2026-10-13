@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BtkpHR2EEUGhqXxZqUsBOA" Reference="kMHxHFkRdUG5hxoDvy1PoQ/m_BljSBK30i28RCrrdwEWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v1-updated" DesignTimeRectangle="791, 830, 354, 43" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='btnLogin' tag='BUTTON' /&gt;" Guid="d03495c6-46c4-45b3-8c7e-1a2016bd62b2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PackCo Partner Hub' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="The button to sign in to the PackCo Partner Hub." Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="b6597f2f45db44455137bb422e6e284d.jpg" xmlns="">0lhm_EFC0jEO-M8plL-jwOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

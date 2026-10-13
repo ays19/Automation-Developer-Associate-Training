@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome PackCo Vendor Portal — Supplier Claims",
+  "Type": "Screen",
+  "Id": "XN6XJTmbZk2vsi4FzxPYsw",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/XN6XJTmbZk2vsi4FzxPYsw",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/PW5TroOOvU-T5QBYFSiehg",
+  "Created": "2026-05-19T06:40:41.3662643Z",
+  "Updated": "2026-05-19T06:40:41.3662643Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

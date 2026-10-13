@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NIBXHrFCTUSNlOq5WZc2Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath-uia-courses.azurewebsites.net/portal-v3" DesignTimeRectangle="753, 593, 422, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='confirmationNumber' tag='STRONG' /&gt;" Guid="b06ab3b4-f096-44de-b34e-203feb4b3ed6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='LogiTrack Returns Portal' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="The tracking ID for the submitted return report" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d6ef7f0f387e865761536a8ee2bd0da.jpg" xmlns="">0Y7zfGc4lCE2fo5loe_pBSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

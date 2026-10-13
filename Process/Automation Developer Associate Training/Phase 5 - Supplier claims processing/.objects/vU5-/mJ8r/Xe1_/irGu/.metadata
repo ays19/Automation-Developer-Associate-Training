@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text category",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "irGuPLSYdU6exkbEhLN3DA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/irGuPLSYdU6exkbEhLN3DA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:48:46.3186161Z",
+  "Updated": "2026-05-08T12:48:46.3186161Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State verify preview loaded",
+  "Type": "Element",
+  "Id": "Pob8g1W-tUW2D3LXSO8yeg",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/Pob8g1W-tUW2D3LXSO8yeg",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/TArdiMHejk2pGWjks9aXWA",
+  "Created": "2026-06-10T14:20:36.0033409Z",
+  "Updated": "2026-06-10T14:20:36.0033409Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

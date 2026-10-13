@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text incidentDate",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XXrX1Jm7EEuuReR5ia4fJg",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/XXrX1Jm7EEuuReR5ia4fJg",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:51:38.1948789Z",
+  "Updated": "2026-05-08T12:51:38.1948789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State Verify confirmation number",
+  "Type": "Element",
+  "Id": "fyGt4FCwHUybWGx108h-XQ",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/fyGt4FCwHUybWGx108h-XQ",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/h9riI4dnyUmCo1hQ8BRNjQ",
+  "Created": "2026-06-15T13:11:13.4918753Z",
+  "Updated": "2026-06-15T13:11:13.4918753Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text Product code",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hoypuLVyhEORb4LoQIcoBw",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/hoypuLVyhEORb4LoQIcoBw",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/Xe1_JPoS4UONXo6OBFgpPQ",
+  "Created": "2026-05-08T12:45:47.2964651Z",
+  "Updated": "2026-05-08T12:45:47.2964651Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

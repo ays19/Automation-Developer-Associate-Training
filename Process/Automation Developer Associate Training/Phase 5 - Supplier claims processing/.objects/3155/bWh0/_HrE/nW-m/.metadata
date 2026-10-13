@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Claims",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "nW-mJnSp3U-vRy7DRO-CVg",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/nW-mJnSp3U-vRy7DRO-CVg",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/_HrE2AqGxEu9dqkBoSjrcg",
+  "Created": "2026-05-12T07:30:19.1201291Z",
+  "Updated": "2026-05-12T07:30:19.1201291Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

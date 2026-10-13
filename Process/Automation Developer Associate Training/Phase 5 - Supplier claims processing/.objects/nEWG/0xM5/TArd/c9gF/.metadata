@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State Verify portal loaded",
+  "Type": "Element",
+  "Id": "c9gFSvAy0EyjmEdq7kUfvA",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/c9gFSvAy0EyjmEdq7kUfvA",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/TArdiMHejk2pGWjks9aXWA",
+  "Created": "2026-06-10T13:48:41.7593103Z",
+  "Updated": "2026-06-10T13:48:41.7593103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

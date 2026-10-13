@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text Read confirmation number",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eGtsFjaQgkC3X3ml7Hsi1A",
+  "Reference": "kMHxHFkRdUG5hxoDvy1PoQ/eGtsFjaQgkC3X3ml7Hsi1A",
+  "ParentRef": "kMHxHFkRdUG5hxoDvy1PoQ/wTTEGTkbCkutmxW1NBV1dQ",
+  "Created": "2026-06-15T12:55:42.6898216Z",
+  "Updated": "2026-06-15T12:55:42.6898216Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
