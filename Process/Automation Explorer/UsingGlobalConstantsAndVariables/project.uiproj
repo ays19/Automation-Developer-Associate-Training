@@ -1,0 +1,6 @@
+{
+  "Name": "UsingGlobalConstantsAndVariables",
+  "ProjectType": "Process",
+  "Description": "In this project we will calculate VAT(Value added text) using global Constants and variables",
+  "MainFile": "Main.xaml"
+}
