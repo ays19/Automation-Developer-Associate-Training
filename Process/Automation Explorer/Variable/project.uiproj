@@ -1,0 +1,6 @@
+{
+  "Name": "Variable Constant Argument",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
