@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WIxNh3ZBfkmRwurnUth5zQ" Reference="yXOjR22jrECuiF0d5ZjmRA/ubvOA6Mfq0-4o4hSZACHmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?sca_esv=6b69e4b95f4fbd33&amp;rlz=1C1VDKB_enBD1234BD1234&amp;sxsrf=APpeQnsjeGsGTxVc4WKG_LhhCbVlxkQEdg:1791606868490&amp;udm=vids&amp;fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE96grTuFPBRY0pmGfUF9Jygpeu1wB3cCaVf2ejbzv-xzkZw0_Vuodb9Qy1N3qDiVl7J9kQJc8A_P6JIZCtGChf5-XvULVky1r2jpUnz1EG6F-ky-qz8hgudSxP5ggeuDf0TG8x24juZNj5rl11CmJw4kbmJf8ywhnZK9m9iD_2wRFTAu1A&amp;q=uipath+academy&amp;sa=X&amp;ved=2ahUKEwiktuTXz66XAxUXzzgGHUrgF6UQtKgLegQIJRAB&amp;biw=1280&amp;bih=609&amp;dpr=1.5#ip=1" ContentHash="sDbQ_Zv1m0y1PL0555I00Q" DesignTimeRectangle="167, -1490, 978, 3084" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='rso' tag='DIV' /&gt;" Guid="d65c00d6-0bb9-4a3b-8c8d-c29082753202" Reference="yXOjR22jrECuiF0d5ZjmRA/ubvOA6Mfq0-4o4hSZACHmg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='uipath academy - Google Search' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2454e32e906574e96e77c8f20f1f9ae7.jpg" xmlns="">0MZYlbDYks0GDyec9Y_-NHQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Video Title'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Video Title Url'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Date Uploaded'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

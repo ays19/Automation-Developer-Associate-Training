@@ -1,0 +1,6 @@
+{
+  "Name": "Workbook_Datatable_Automation",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

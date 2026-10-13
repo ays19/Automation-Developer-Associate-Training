@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome uipath academy - Google Search",
+  "Type": "Screen",
+  "Id": "bdri1z0g00WhLvDKFshw9w",
+  "Reference": "yXOjR22jrECuiF0d5ZjmRA/bdri1z0g00WhLvDKFshw9w",
+  "ParentRef": "yXOjR22jrECuiF0d5ZjmRA/tcrNdJTLmE-Bd4TIiLtcLA",
+  "Created": "2026-10-10T04:19:40.38008Z",
+  "Updated": "2026-10-10T04:19:40.38008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
