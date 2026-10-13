@@ -1,0 +1,13 @@
+﻿{
+  "Name": "withdrawal.txt - Notepad",
+  "Type": "Element",
+  "Id": "HWx5AmkGBU-Ucq05R5W05w",
+  "Reference": "SKx_o7nfE0eahp5o902xCQ/HWx5AmkGBU-Ucq05R5W05w",
+  "ParentRef": "SKx_o7nfE0eahp5o902xCQ/a8IGWwdnfUyaELaa-eHg_g",
+  "Created": "2026-10-12T03:07:05.1428409Z",
+  "Updated": "2026-10-12T03:07:05.1428409Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

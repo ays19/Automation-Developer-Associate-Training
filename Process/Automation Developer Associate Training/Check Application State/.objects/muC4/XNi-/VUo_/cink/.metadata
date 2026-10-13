@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Withdrawal",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "cink2sFIHEGweh7fwwjAig",
+  "Reference": "SKx_o7nfE0eahp5o902xCQ/cink2sFIHEGweh7fwwjAig",
+  "ParentRef": "SKx_o7nfE0eahp5o902xCQ/VUo_7b-ggE2lsVl4fLA2_w",
+  "Created": "2026-10-12T02:51:37.0555023Z",
+  "Updated": "2026-10-12T02:51:37.0555023Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

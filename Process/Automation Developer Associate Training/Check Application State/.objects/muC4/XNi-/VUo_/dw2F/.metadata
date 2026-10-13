@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Withdrawal transaction",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "dw2FKSf-F0iE4ERA1ek3Sw",
+  "Reference": "SKx_o7nfE0eahp5o902xCQ/dw2FKSf-F0iE4ERA1ek3Sw",
+  "ParentRef": "SKx_o7nfE0eahp5o902xCQ/VUo_7b-ggE2lsVl4fLA2_w",
+  "Created": "2026-10-12T02:47:43.858053Z",
+  "Updated": "2026-10-12T02:47:43.858053Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
