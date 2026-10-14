@@ -53,6 +53,7 @@ Process/
 │
 └── Automation Developer Associate Training/    # Tier 2: Associate Certification Track
     ├── Check Application State/               # Modern conditional UI wait & branching
+    ├── Debugging/                              # Debugging tools, breakpoints & form entry
     ├── extract email address with RegEx/       # Pattern parsing from unformatted text
     ├── ForEachUIElements/                      # Modern dynamic UI collections iteration
     ├── Managing Difficult Situations_Project/  # Exception strategies & UI fault recovery
@@ -61,9 +62,11 @@ Process/
     ├── Phase 5 - Supplier claims processing/    # Phase 5 ScreenPlay claims automation
     ├── PickAndPickBranch/                      # Non-deterministic event-driven monitoring
     ├── Regex Addresses Demo/                   # Multi-line street & address extraction
+    ├── RetryScope_Practice/                    # Retry Scope logic & action validation
     ├── String Bookstore Demo/                  # String methods (Split, Substring, Replace)
     ├── StringActivities/ & Practice/           # Enterprise string cleansing & text pipelines
     ├── Task2/                                  # Capstone: Multi-screen end-to-end workflow
+    ├── TryCatch/ & TryCatch_Practice/          # Exception handling & Global Exception Handler
     ├── Types of Selector/                      # Strict, Fuzzy, Image, Anchor descriptors
     ├── using dictionaries and integers/        # Key-Value hashing & numerical counters
     ├── using listsPractice/ & Work with Lists/ # Generic lists, sorting algorithms
@@ -95,6 +98,8 @@ Process/
 
 | Module / Practice | Path | Core Concepts & Activities |
 | :--- | :--- | :--- |
+| **Debugging & Diagnostics** | `Automation Developer Associate Training/Debugging` | Debugging techniques, breakpoints, execution tracing, data inspection, and automated web form data entry. |
+| **Exception Handling & Retry** | `Automation Developer Associate Training/TryCatch` <br> `Automation Developer Associate Training/TryCatch_Practice` <br> `Automation Developer Associate Training/RetryScope_Practice` | `Try Catch` blocks, `Global Exception Handler`, `Retry Scope` condition testing, handling application exceptions and data conversion errors. |
 | **Regular Expressions (RegEx)** | `Automation Developer Associate Training/extract email address with RegEx Practice` <br> `Automation Developer Associate Training/Regex Addresses Demo` | RegEx Builder, pattern matching (`\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b`), group captures. |
 | **String Manipulation** | `Automation Developer Associate Training/StringActivities` <br> `Automation Developer Associate Training/StringActivitiesPractice` <br> `Automation Developer Associate Training/String Bookstore Demo` | `.Split()`, `.Substring()`, `.IndexOf()`, `.Trim()`, `.Replace()`, formatting multiline raw text into structured schemas. |
 | **Collections & Dictionaries** | `Automation Developer Associate Training/Work with Lists` <br> `Automation Developer Associate Training/using listsPractice` <br> `Automation Developer Associate Training/Working with dictionaries` <br> `Automation Developer Associate Training/Work with List and Dictionaries` | `System.Collections.Generic.List(Of T)`, `Dictionary(Of TKey, TValue)`, custom list sorting (`List.Sort()`), iterating key-value pairs. |
