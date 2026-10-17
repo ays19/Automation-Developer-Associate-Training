@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z7ge2mxO-UahP8DS8fDdJA" Reference="IqEfcuGJgUqVOUTajlUyOQ/z-QYpjOyTkeh4whJcaqkOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="1076, 656, 49, 16" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='*.pdf' role='document' /&gt;&lt;ctrl name='PDF Document' role='document' /&gt;&lt;ctrl name='This is an untagged*' role='document' /&gt;&lt;ctrl name='Page 1' role='pane' /&gt;&lt;ctrl idx='22' role='grouping' /&gt;" Guid="69d872d1-b566-43b9-abb3-261a8baf25e1" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Invoice # 3 A.pdf - Work - Microsoft​ Edge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce66ffb07cc865b66f41128fe3fb200d.jpg" xmlns="">0keeA1DDf1Uyk3zpN4NukjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Invoice # 3 A.pdf - Adobe Acrobat Pro DC",
+  "Type": "Screen",
+  "Id": "NlzM7xs1wEyF3D6D4vvlBw",
+  "Reference": "IqEfcuGJgUqVOUTajlUyOQ/NlzM7xs1wEyF3D6D4vvlBw",
+  "ParentRef": "IqEfcuGJgUqVOUTajlUyOQ/o2mHLO93yk6Objo6z3AQiA",
+  "Created": "2026-10-16T02:25:29.9407534Z",
+  "Updated": "2026-10-16T02:25:29.9407534Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

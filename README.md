@@ -52,20 +52,32 @@ Process/
 │   └── Workbook_Datatable_Automation/          # HR report reconciliation workflow
 │
 └── Automation Developer Associate Training/    # Tier 2: Associate Certification Track
+    ├── ACMESystam1UILibrary/                   # Custom reusable ACME System 1 UI Automation Library
+    ├── Accessing and reading robot execution logs/ # Execution logs & diagnostic tracking
+    ├── Add Log Message practice/               # Logging levels & execution monitoring
     ├── Check Application State/               # Modern conditional UI wait & branching
     ├── Debugging/                              # Debugging tools, breakpoints & form entry
+    ├── Extract data from multiple PDFs/        # Multi-document PDF batch data extraction
     ├── extract email address with RegEx/       # Pattern parsing from unformatted text
     ├── ForEachUIElements/                      # Modern dynamic UI collections iteration
+    ├── Get Emails with IMAP and Filtering/     # IMAP protocol email fetching & filtering
+    ├── IS_EmailAutomation/                     # Integration Service & email automation
     ├── Managing Difficult Situations_Project/  # Exception strategies & UI fault recovery
+    ├── PDF Automation_Extract information from pdf/ # PDF text/field parsing workflows
     ├── Phase one_Supplier Claims Processing/   # Enterprise supplier claims & testing flow
     ├── Phase three - Supplier claims processing/ # Post-healing agent claims processing
     ├── Phase 5 - Supplier claims processing/    # Phase 5 ScreenPlay claims automation
     ├── PickAndPickBranch/                      # Non-deterministic event-driven monitoring
+    ├── Practice1_CalculateSums_Answers/        # DataTable column arithmetic & calculations
+    ├── RCA_IncidentRequest/                    # Root Cause Analysis incident automation workflow
     ├── Regex Addresses Demo/                   # Multi-line street & address extraction
+    ├── Retrieve Email with Gmail Integration/  # Gmail API & OAuth email integration
     ├── RetryScope_Practice/                    # Retry Scope logic & action validation
+    ├── Storage Buckets (txt file and workflow)/ # Orchestrator storage bucket file operations
     ├── String Bookstore Demo/                  # String methods (Split, Substring, Replace)
     ├── StringActivities/ & Practice/           # Enterprise string cleansing & text pipelines
     ├── Task2/                                  # Capstone: Multi-screen end-to-end workflow
+    ├── Task3/                                  # Capstone: Automated invoice processing & verification
     ├── TryCatch/ & TryCatch_Practice/          # Exception handling & Global Exception Handler
     ├── Types of Selector/                      # Strict, Fuzzy, Image, Anchor descriptors
     ├── using dictionaries and integers/        # Key-Value hashing & numerical counters
@@ -73,8 +85,15 @@ Process/
     ├── UsingParralalActivity/                  # Concurrency & asynchronous evaluation
     ├── Verify execution feature/               # Visual feedback & verification assertions
     ├── Work with List and Dictionaries/        # Complex data structures & lookups
+    ├── WorkinfWithDataTables_Part_1/           # DataTable schema design, sorting & filtering
     ├── Working with dictionaries/              # Dynamic key assignment & iteration
-    └── WorkingWithFileFolder/                  # File and folder operations, zip extraction & sorting
+    ├── Working with Orchestrator Resources in Studio/ # Orchestrator Assets, Queues & Processes
+    ├── Working with Orchestrator Resources in Studio_Windows_Practice/ # Windows Orchestrator integration
+    ├── WorkingDataTaables_Part_2/              # Multi-table join, lookup, and candidate data handling
+    ├── WorkingWithFileFolder/                  # File and folder operations, zip extraction & sorting
+    ├── WorkingWithPDF/                         # PDF document processing & OCR extraction
+    ├── working with google workspaces activities/ # Google Workspace (Docs, Sheets, Drive) automations
+    └── xtract data using PDF activities Practice/ # PDF invoice extraction & Excel reporting
 ```
 
 ---
@@ -110,7 +129,13 @@ Process/
 | **Event-Driven & Concurrency** | `Automation Developer Associate Training/PickAndPickBranch` <br> `Automation Developer Associate Training/UsingParralalActivity` | Asynchronous branches with `Pick` and `PickBranch` for non-deterministic dialogs; parallel concurrent executions. |
 | **Fault Handling & Recovery** | `Automation Developer Associate Training/Managing Difficult Situations_Project` | Graceful UI recovery, Find Children, Visual Tree navigation, unexpected pop-up handling. |
 | **Enterprise Use Case & Testing** | `Automation Developer Associate Training/Phase one_Supplier Claims Processing` <br> `Automation Developer Associate Training/Phase three - Supplier claims processing` <br> `Automation Developer Associate Training/Phase 5 - Supplier claims processing` | End-to-end supplier claims automation across phases (Phase 1, Phase 3 PHA, Phase 5 ScreenPlay), Mail & Excel automation, Testing framework. |
-| **Capstone Automation** | `Automation Developer Associate Training/Task2` | Multi-screen end-to-end automation with input validation, transaction processing, and audit outputs. |
+| **UI Libraries & Component Reusability** | `Automation Developer Associate Training/ACMESystam1UILibrary` | Reusable UI component library for ACME System 1 modern UI automation. |
+| **PDF Automation & Extraction** | `Automation Developer Associate Training/WorkingWithPDF` <br> `Automation Developer Associate Training/Extract data from multiple PDFs` <br> `Automation Developer Associate Training/PDF Automation_Extract information from pdf` <br> `Automation Developer Associate Training/xtract data using PDF activities Practice` | PDF text parsing, Read PDF with OCR, batch invoice data extraction, and cross-referencing invoice fields to Excel summaries. |
+| **Email & Workspace Integration** | `Automation Developer Associate Training/Get Emails with IMAP and Filtering` <br> `Automation Developer Associate Training/IS_EmailAutomation` <br> `Automation Developer Associate Training/Retrieve Email with Gmail Integration` <br> `Automation Developer Associate Training/working with google workspaces activities` | IMAP mail protocol, Gmail API integration, OAuth credentials, attachment handling, and Google Workspace (Docs, Sheets, Drive) operations. |
+| **DataTables & Advanced Computations** | `Automation Developer Associate Training/WorkinfWithDataTables_Part_1` <br> `Automation Developer Associate Training/WorkingDataTaables_Part_2` <br> `Automation Developer Associate Training/Practice1_CalculateSums_Answers` | Dynamic DataTable construction, schema definition, multi-table joins, lookup operations, and automated column sum calculations. |
+| **Orchestrator Resources & Storage** | `Automation Developer Associate Training/Working with Orchestrator Resources in Studio` <br> `Automation Developer Associate Training/Working with Orchestrator Resources in Studio_Windows_Practice` <br> `Automation Developer Associate Training/Storage Buckets (txt file and workflow)` | Orchestrator Assets (credential/text), Queues (transaction items), and Storage Buckets (file upload/download/sync). |
+| **Execution Logging & Monitoring** | `Automation Developer Associate Training/Accessing and reading robot execution logs` <br> `Automation Developer Associate Training/Add Log Message practice` | Log Message activity, logging verbosity levels (Info, Warn, Error, Fatal), structured execution auditing, and analyzing diagnostic robot logs. |
+| **Capstone & Incident Workflows** | `Automation Developer Associate Training/Task2` <br> `Automation Developer Associate Training/Task3` <br> `Automation Developer Associate Training/RCA_IncidentRequest` | Multi-screen end-to-end automation, automated invoice processing & validation, and Root Cause Analysis (RCA) incident handling flows. |
 
 ---
 

@@ -1,0 +1,6 @@
+{
+  "Name": "WorkinfWithDataTables_Part_1",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

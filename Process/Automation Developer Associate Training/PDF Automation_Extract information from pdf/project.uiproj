@@ -1,0 +1,6 @@
+{
+  "Name": "PDF Automation_Extract information from pdf",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

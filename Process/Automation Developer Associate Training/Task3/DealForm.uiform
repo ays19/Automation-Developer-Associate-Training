@@ -1,0 +1,124 @@
+﻿{
+  "Metadata": {
+    "Id": "5fdba6cd-6547-49a3-97d2-9ad4af23f4f3",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "DealForm",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Transaction ID",
+        "tableView": true,
+        "key": "transId",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Conversation No",
+        "tableView": true,
+        "key": "convNo",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Executed By",
+        "tableView": true,
+        "key": "execBy",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Conversation Time",
+        "tableView": true,
+        "key": "convTime",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Counterparty",
+        "tableView": true,
+        "key": "cpty",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Product",
+        "tableView": true,
+        "key": "product",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Currency Pair",
+        "tableView": true,
+        "key": "pair",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Direction",
+        "tableView": true,
+        "key": "direction",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Rate",
+        "tableView": true,
+        "key": "rate",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Buy Amount (USD)",
+        "tableView": true,
+        "key": "buyUSD",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Sell Amount (BDT)",
+        "tableView": true,
+        "key": "sellBDT",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Value Date",
+        "tableView": true,
+        "key": "valueDate",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Status",
+        "tableView": true,
+        "key": "status",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Our Payment Instruction",
+        "tableView": true,
+        "key": "payInstr",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Submit",
+        "showValidations": false,
+        "disableOnInvalid": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "input": true
+      }
+    ]
+  }
+}
