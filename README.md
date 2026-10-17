@@ -73,7 +73,8 @@ Process/
     ├── UsingParralalActivity/                  # Concurrency & asynchronous evaluation
     ├── Verify execution feature/               # Visual feedback & verification assertions
     ├── Work with List and Dictionaries/        # Complex data structures & lookups
-    └── Working with dictionaries/              # Dynamic key assignment & iteration
+    ├── Working with dictionaries/              # Dynamic key assignment & iteration
+    └── WorkingWithFileFolder/                  # File and folder operations, zip extraction & sorting
 ```
 
 ---
@@ -98,6 +99,7 @@ Process/
 
 | Module / Practice | Path | Core Concepts & Activities |
 | :--- | :--- | :--- |
+| **File & Folder Operations** | `Automation Developer Associate Training/WorkingWithFileFolder` | File and directory operations (`Select File`, `Get File Info`, `Extract/Unzip Files`, `Create Directory`, `For Each File in Folder`, `Move File`, `Delete Folder`). |
 | **Debugging & Diagnostics** | `Automation Developer Associate Training/Debugging` | Debugging techniques, breakpoints, execution tracing, data inspection, and automated web form data entry. |
 | **Exception Handling & Retry** | `Automation Developer Associate Training/TryCatch` <br> `Automation Developer Associate Training/TryCatch_Practice` <br> `Automation Developer Associate Training/RetryScope_Practice` | `Try Catch` blocks, `Global Exception Handler`, `Retry Scope` condition testing, handling application exceptions and data conversion errors. |
 | **Regular Expressions (RegEx)** | `Automation Developer Associate Training/extract email address with RegEx Practice` <br> `Automation Developer Associate Training/Regex Addresses Demo` | RegEx Builder, pattern matching (`\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b`), group captures. |
